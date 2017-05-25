@@ -4,6 +4,19 @@ h2,
 	text-align: center;
 }
 
+h1, h2 {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #3f5c9a;
+    color: white;
+}
+
+body {
+    background-color: #e9ebee;
+}
+
 .chosen-select {
     display: inline-block;
     padding: 6px 12px;
